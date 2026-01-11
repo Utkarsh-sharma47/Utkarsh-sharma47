@@ -59,11 +59,18 @@ Software Engineering student pursuing an Integrated B.Tech + M.Tech in Informati
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarsh-sharma47&show_icons=true&theme=buefy&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarsh-sharma47&show_icons=true&theme=buefy&hide_border=true" width="48%" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh-sharma47&layout=compact&theme=buefy&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh-sharma47&layout=compact&theme=buefy&hide_border=true" width="48%" alt="Top Languages" />
   
   <br/>
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-sharma47&theme=buefy&hide_border=true" width="98%" alt="GitHub Streak" />
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh-sharma47&theme=buefy" width="100%" />
+  <br/>
+  <br/>
+  
+  <h3>Contribution Graph</h3>
+  <img src="https://ghchart.rshah.org/2ea44f/utkarsh-sharma47" alt="Utkarsh's Github Chart" width="100%" />
 </div>
