@@ -1,13 +1,7 @@
 <div align="center">
   <h1>Utkarsh Sharma</h1>
   <h3>Backend & Full-Stack Software Engineer</h3>
-  <p>ABV-IIITM Gwalior | B.Tech in Information Technology</p> <!--[cite: 2] -->
 
-  <p>
-    <a href="mailto:utkarsh4.sharma005@gmail.com">Email</a> • <!--[cite: 2] -->
-    <a href="https://linkedin.com/in/utkarsh-sharma">LinkedIn</a> • <!--[cite: 2] -->
-    <a href="https://leetcode.com/u/utkarshsharma">LeetCode</a> <!--[cite: 2] -->
-  </p>
 </div>
 
 ---
