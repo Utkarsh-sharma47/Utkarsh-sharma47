@@ -165,12 +165,3 @@ worker nodes.
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Utkarsh-sharma47&theme=github-dark&hide_border=true&area=true&bg_color=0D1117"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-</div>
